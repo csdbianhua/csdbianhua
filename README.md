@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎃 My birthday is October 31st, so I usually refer to myself as a 🎃
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m learning kotlin currently
 
 <!--
 **csdbianhua/csdbianhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
